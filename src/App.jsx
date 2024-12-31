@@ -16,7 +16,7 @@ function App() {
           {/* Logo Section */}
           <div>
             <img
-              src="/public/Logo.jpg"
+              src="/Logo.jpg"
               className="w-25 h-20 m-0 p-0 object-cover"
               alt="Logo"
             />
@@ -81,47 +81,47 @@ function App() {
           </div>
 
           <div>
-            <img src="/public/p2.webp" alt="Burgure" />
+            <img src="/p2.webp" alt="Burgure" />
             <h2 className="text-5xl"> Momos </h2>
           </div>
 
           <div>
-            <img src="/public/p3.webp" alt="Burgure" />
+            <img src="/p3.webp" alt="Burgure" />
             <h2 className="text-5xl"> Noodles </h2>
           </div>
 
           <div>
-            <img src="/public/p4.webp" alt="Burgure" />
+            <img src="/p4.webp" alt="Burgure" />
             <h2 className="text-5xl"> Pizza </h2>
           </div>
 
           <div>
-            <img src="/public/p5.webp" alt="Burgure" />
+            <img src="/p5.webp" alt="Burgure" />
             <h2 className="text-5xl"> Ice-Cream </h2>
           </div>
 
           <div>
-            <img src="/public/p6.webp" alt="Burgure" />
+            <img src="/p6.webp" alt="Burgure" />
             <h2 className="text-5xl "> Biryani </h2>
           </div>
 
           <div>
-            <img src="/public/p7.webp" alt="Burgure" />
+            <img src="/p7.webp" alt="Burgure" />
             <h2 className="text-5xl"> Chicken </h2>
           </div>
 
           <div>
-            <img src="/public/p8.webp" alt="Burgure" />
+            <img src="/p8.webp" alt="Burgure" />
             <h2 className="text-5xl"> Mutton </h2>
           </div>
 
           <div>
-            <img src="/public/p9.webp" alt="Burgure" />
+            <img src="/p9.webp" alt="Burgure" />
             <h2 className="text-5xl"> Juice </h2>
           </div>
 
           <div>
-            <img src="/public/p10.webp" alt="Burgure" />
+            <img src="/p10.webp" alt="Burgure" />
             <h2 className="text-5xl"> Cake </h2>
           </div>
         </div>
