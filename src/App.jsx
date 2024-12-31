@@ -76,7 +76,7 @@ function App() {
         </div>
         <div className="grid  grid-cols-5  gap-10   ml-12   mt-10">
           <div>
-            <img src="/public/p1.png" alt="Burgure" />
+            <img src="/p1.png" alt="Burgure" />
             <h2 className="text-5xl"> Burger </h2>
           </div>
 
